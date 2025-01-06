@@ -17,13 +17,11 @@ library(gridExtra)
 setwd("/media/alexis/hdd2/objetivo_1_tesis_doctoral/matlab_scripts_genomas")
 
 # se carga el output de flux-sampling obtenido con matlab
-#sampling <- fread("samples_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_200000_modelseed_ids.csv") TESIS ORIGINAL
-sampling <- fread("samples_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_200000_modelseed_Asegurando_que_PT33_cresca_en_monocultivo.csv") # USANDO RXNS DE VMH EN MODELOS GAPSEQ PARA INULINA EXTRACELULAR
+sampling <- fread("samples_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_200000_modelseed_ids.csv")
 glimpse(sampling)
 
 # se cargan los nombres de las reacciones de los modelos aqui en R
-#sampling_rxn_names <- fread("samples_EcComRXNS_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_modelseed_ids.csv", header = FALSE)
-sampling_rxn_names <- fread("samples_EcComRXNS_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_modelseed_Asegurando_que_PT33_cresca_en_monocultivo.csv", header = FALSE)
+sampling_rxn_names <- fread("samples_EcComRXNS_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_modelseed_ids.csv", header = FALSE)
 # Mostrar las primeras 10 filas usando el nombre de la primera columna
 sampling_rxn_names[1:10, .(V1)]
 
