@@ -14,7 +14,7 @@ library(gridExtra)
 
 # se establece el directorio de trabajo (donde estan lo archivos que se usaran)
 # loading flux sampling output from matlab
-setwd("/media/alexis/hdd2/objetivo_1_tesis_doctoral/matlab_scripts_genomas")
+setwd("/home/alexis/Desktop/github_script_finales_alexis/Objective_1_Metabolic_interactions_insilico/Simulation_of_growth/Matlab_growth_simulation_scripts")
 
 # se carga el output de flux-sampling obtenido con matlab
 sampling <- fread("samples_Bifidobacterium_animalis_lactis_PT33_Clostridium_innocuum_HFG2_200000_modelseed_ids.csv")
