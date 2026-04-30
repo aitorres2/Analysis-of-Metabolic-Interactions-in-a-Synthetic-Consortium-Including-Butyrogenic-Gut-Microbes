@@ -1,0 +1,253 @@
+###Glycolysis_genes
+
+RCHGF003226	scrk_fructokinase (EC 2.7.1.4)
+RCHGF001954	glk_glucokinase [EC:2.7.1.2]
+RCHGF001709	glk_glucokinase [EC:2.7.1.2]
+RCHGF002808	putative glucokinase [EC:2.7.1.2] [2.7.1.2]
+RCHGF001517	putative glucokinase [EC:2.7.1.2] [2.7.1.2]
+RCHGF000703	pgi_glucose-6-phosphate isomerase (EC 5.3.1.9)
+RCHGF000704	pgi_glucose-6-phosphate isomerase (EC 5.3.1.9)
+RCHGF001620	pgi_glucose-6-phosphate isomerase (EC 5.3.1.9)
+RCHGF003855	pgi_glucose-6-phosphate isomerase (EC 5.3.1.9)
+RCHGF000682	1-phosphofructokinase (EC 2.7.1.56)
+RCHGF001967	6-phosphofructokinase (EC 2.7.1.11)
+RCHGF003241	1-phosphofructokinase (EC 2.7.1.56)
+RCHGF000393	fba_ketose-bisphosphate aldolase
+RCHGF000424	fba_ketose-bisphosphate aldolase
+RCHGF001014	fba_ketose-bisphosphate aldolase
+RCHGF001355	fba_ketose-bisphosphate aldolase
+RCHGF001585	fba_ketose-bisphosphate aldolase
+RCHGF001703	fba_ketose-bisphosphate aldolase
+RCHGF001704	fba_ketose-bisphosphate aldolase
+RCHGF001738	fba_ketose-bisphosphate aldolase
+RCHGF002482	fructose-1,6-bisphosphate aldolase, class II (EC 4.1.2.13)
+RCHGF003172	fba_ketose-bisphosphate aldolase
+RCHGF003185	fba_ketose-bisphosphate aldolase
+RCHGF003388	fba_ketose-bisphosphate aldolase
+RCHGF003710	fba_ketose-bisphosphate aldolase
+RCHGF004152	fba_ketose-bisphosphate aldolase
+RCHGF002290	rpi_triose-phosphate isomerase (EC 5.3.1.1)
+RCHGF000962	gap_glyceraldehyde-3-phosphate dehydrogenase, type I (EC 1.2.1.-)
+RCHGF002291	pgk_phosphoglycerate kinase (EC 2.7.2.3)
+RCHGF001714	pgm_2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+RCHGF000949	eno_phosphopyruvate hydratase (EC 4.2.1.11)
+RCHGF001966	pyk_pyruvate kinase (EC 2.7.1.40)
+
+###putative_inulin_genes
+
+RCHGF003366	GH32_fructan beta-fructosidase
+RCHGF003225	GH32_beta-fructofuranosidase [EC:3.2.1.26]
+
+###Acetate consumption genes
+
+RCHGF003908	acetate kinase (EC 2.7.2.1)
+RCHGF000917	phosphate acetyltransferase (EC 2.3.1.8)
+RCHGF001173	phosphate acetyltransferase (EC 2.3.1.8)
+RCHGF003536	phosphate acetyltransferase (EC 2.3.1.8)
+
+###Lactate consumption genes
+
+RCHGF001334	ldh_L-lactate dehydrogenase
+RCHGF001335	ldh_L-lactate dehydrogenase
+
+###glutamate consumption genes
+
+RCHGF000208	Glutamate dehydrogenase
+RCHGF003700	Glutamate dehydrogenase
+
+###formate production genes
+
+RCHGF003541	Formate acetyltransferase (EC 2.3.1.54)
+
+###Butyryl-CoA formation genes
+
+RCHGF003501	Cro_3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+RCHGF003502	Hbd_3-hydroxyacyl-CoA dehydrogenase, NAD binding domain protein (EC 1.1.1.157)
+RCHGF003503	EtfA_electron transfer flavoprotein FAD-binding domain protein
+RCHGF003504	EtfB_electron transfer flavoprotein domain protein
+RCHGF003505	Bcd_acyl-CoA dehydrogenase, C-terminal domain protein (EC 1.3.8.1)
+RCHGF003506	Thl_acetyl-CoA C-acetyltransferase
+RCHGF003507	Thl_acetyl-CoA C-acetyltransferase
+
+###Butyrate formation genes
+
+RCHGF001550	But_acetate CoA-transferase [EC:2.8.3.8]
+RCHGF003500	But_AlternativeTransferase
+
+###Butanol_Solventogenesis genes
+
+RCHGF001011	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+RCHGF003179	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+RCHGF001587	NADPH-dependent butanol dehydrogenase (EC 1.1.1.1)
+RCHGF002900	ald_aldehyde dehydrogenase (NAD) family protein (EC 1.2.1.-)
+RCHGF003613	adh_alcohol dehydrogenase, iron-dependent (EC 1.1.1.1)
+RCHGF002411	adh_alcohol dehydrogenase, iron-dependent (EC 1.1.1.1)
+
+###Sporulation genes
+
+RCHGF000002	ParB spo0J chromosome partitioning protein
+RCHGF000003	parA soj chromosome partitioning protein
+RCHGF000004	ParB spo0J chromosome partitioning protein
+RCHGF000145	RNA polymerase sigma-E factor
+RCHGF000146	RNA polymerase sigma-G factor
+RCHGF000215	spoIIAB stage II sporulation protein AB
+RCHGF000216	RNA polymerase sigma-F factor
+RCHGF000221	RNA polymerase sigma-K factor
+RCHGF000305	spoIIP stage II sporulation protein P
+RCHGF000412	YabP sporulation protein
+RCHGF000414	AbrB family transcriptional regulator
+RCHGF000676	YtaF putative sporulation protein
+RCHGF001129	Spo0A sporulation initiation factor Spo0A
+RCHGF001322	YtvI sporulation integral membrane protein
+RCHGF001532	putative stage II sporulation protein E
+RCHGF001538	Stage II sporulation protein Q
+RCHGF001539	SpoIID stage II sporulation protein D
+RCHGF001717	YtaF putative sporulation protein
+RCHGF001850	sporulation initiation factor Spo0A domain protein
+RCHGF001876	spo0A response regulator
+RCHGF002762	SpoVAF stage V sporulation protein AF
+RCHGF002939	YunB sporulation protein YunB
+RCHGF003744	putative stage VI sporulation protein D
+RCHGF003931	spoVB stage V sporulation protein B
+RCHGF003980	spoVAC stage V sporulation protein AC
+RCHGF003981	spoVAD stage V sporulation protein AD
+RCHGF003982	spoVAE stage V sporulation protein AE
+RCHGF003999	YqfC putative sporulation protein
+RCHGF004000	YqfD putative sporulation protein
+RCHGF004049	spoIVA stage IV sporulation protein A
+RCHGF004069	putative stage II sporulation protein M
+RCHGF004071	spo0A response regulator
+RCHGF004072	spoIVB stage IV sporulation protein B
+
+###Sugar transport genes
+
+RCHGF002753	phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+RCHGF000401	diacetylchitobiose-specific IIA component (EC 2.7.1.69)
+RCHGF000407	glucose-specific IIABC component (EC 2.7.1.69)
+RCHGF000409	glucose-specific IIA component (EC 2.7.1.69)
+RCHGF000488	FRUCTOSE-LIKE-1 IIA COMPONENT (EC 2.7.1.69)
+RCHGF000489	phosphotransferase system
+RCHGF000692	mannose-specific IID component (EC 2.7.1.69)
+RCHGF000693	PTS system sorbose-specific iic component
+RCHGF000694	mannose/fructose family IIB component
+RCHGF000696	PTS system fructose IIA component
+RCHGF000710	fructose-specific IID component (EC 2.7.1.69)
+RCHGF000711	fructose-specific IIC component (EC 2.7.1.69)
+RCHGF000712	MANNOSE-SPECIFIC IIAB COMPONENT (EC 2.7.1.69)
+RCHGF000713	fructose-specific IIA component (EC 2.7.1.69)
+RCHGF000831	PTS system mannose/fructose/sorbose family IID component
+RCHGF000832	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF000833	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF000834	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF000835	PTS system fructose IIA component
+RCHGF000892	cellobiose-specific IIB component (EC 2.7.1.69)
+RCHGF000896	cellobiose-specific IIA component (EC 2.7.1.69)
+RCHGF001002	mannose-specific IIA component (EC 2.7.1.69)
+RCHGF001003	PTS system mannose/fructose/sorbose family IID component
+RCHGF001004	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001005	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF001071	cellobiose-specific IIC component
+RCHGF001072	cellobiose-specific IIB component (EC 2.7.1.69)
+RCHGF001073	cellobiose-specific IIA component (EC 2.7.1.69)
+RCHGF001132	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001133	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001134	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF001135	PTS system fructose IIA component
+RCHGF001358	mannose/fructose family IID component
+RCHGF001359	mannose/fructose family IIC component
+RCHGF001360	mannose/fructose family IIB component
+RCHGF001362	mannose/fructose family IIA component
+RCHGF001417	mannose-specific IIA component (EC 2.7.1.69)
+RCHGF001418	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF001420	PTS system mannose/fructose/sorbose family IID component
+RCHGF001421	mannose permease IID component
+RCHGF001422	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001451	PTS system fructose IIA component
+RCHGF001452	sorbose-specific IIB component (EC 2.7.1.69)
+RCHGF001453	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001454	PTS system sorbose-specific iic component
+RCHGF001469	glucose-specific IIA component (EC 2.7.1.69)
+RCHGF001504	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001505	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001506	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF001507	PTS system fructose IIA component
+RCHGF001508	mannose-specific IIA component (EC 2.7.1.69)
+RCHGF001522	mannose-specific IIAB component (EC 2.7.1.69)
+RCHGF001523	mannose-specific IIAB component (EC 2.7.1.69)
+RCHGF001555	PTS system fructose IIA component
+RCHGF001557	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001558	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001559	MANNOSE-SPECIFIC IIAB COMPONENT (EC 2.7.1.69)
+RCHGF001571	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001572	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001573	PTS system sorbose subfamily IIB component
+RCHGF001574	mannose/fructose family IIA component
+RCHGF001588	mannose-specific IID component (EC 2.7.1.69)
+RCHGF001589	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF001590	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF001591	PTS system fructose IIA component
+RCHGF001680	fructose-specific IID component (EC 2.7.1.69)
+RCHGF001681	fructose-specific IIC component (EC 2.7.1.69)
+RCHGF001705	fructose-like enzyme IIC component (EC 2.7.1.69)
+RCHGF001707	FRUCTOSE-LIKE-1 IIA COMPONENT (EC 2.7.1.69)
+RCHGF001898	beta-glucoside-specific IIABC component (EC 2.7.1.69)
+RCHGF001994	FRUCTOSE-LIKE-1 IIA COMPONENT (EC 2.7.1.69)
+RCHGF002029	mannose/fructose family IIA component
+RCHGF002031	mannose-specific IID component (EC 2.7.1.69)
+RCHGF002032	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF002033	MANNOSE-SPECIFIC IIAB COMPONENT (EC 2.7.1.69)
+RCHGF002303	PTS system mannose/fructose/sorbose family IID component
+RCHGF002304	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF002305	PTS system sorbose subfamily IIB component
+RCHGF002306	PTS system fructose IIA component
+RCHGF002359	cellobiose-specific IIC component
+RCHGF002360	cellobiose-specific IIB component (EC 2.7.1.69)
+RCHGF002374	cellobiose-specific IIB component (EC 2.7.1.69)
+RCHGF002380	cellobiose-specific IIA component (EC 2.7.1.69)
+RCHGF002381	cellobiose-specific IIB component (EC 2.7.1.69)
+RCHGF002522	PTS system fructose IIA component
+RCHGF002524	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF002599	fructose-like IIB component (EC 2.7.1.69)
+RCHGF002600	FRUCTOSE-LIKE-1 IIA COMPONENT (EC 2.7.1.69)
+RCHGF003186	fructose-like enzyme IIC component (EC 2.7.1.69)
+RCHGF003187	fructose-like IIB component (EC 2.7.1.69)
+RCHGF003188	FRUCTOSE-LIKE-1 IIA COMPONENT (EC 2.7.1.69)
+RCHGF003220	glucose-specific IIA component (EC 2.7.1.69)
+RCHGF003222	beta-glucoside-specific IIABC component (EC 2.7.1.69)
+RCHGF003385	fruA phosphotransferase system
+RCHGF003386	fructose-like IIB component (EC 2.7.1.69)
+RCHGF003387	phosphoenolpyruvate-dependent sugar phosphotransferase system
+RCHGF003565	mannose-specific IID component (EC 2.7.1.69)
+RCHGF003566	PTS system sorbose-specific iic component
+RCHGF003567	mannose/fructose family IIB component
+RCHGF003569	PTS system fructose IIA component
+RCHGF003583	glucose-specific IIABC component (EC 2.7.1.69)
+RCHGF003585	mannose-specific IID component (EC 2.7.1.69)
+RCHGF003586	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF003587	mannose-specific IIAB component (EC 2.7.1.69)
+RCHGF003709	mannose-specific IIB component (EC 2.7.1.69)
+RCHGF003715	mannose-specific IID component (EC 2.7.1.69)
+RCHGF003716	PTS system fructose IIA component
+RCHGF004117	PTS system fructose IIA component
+RCHGF004118	MANNOSE-SPECIFIC IIAB COMPONENT (EC 2.7.1.69)
+RCHGF004119	mannose-specific IIC component (EC 2.7.1.69)
+RCHGF004120	mannose-specific IID component (EC 2.7.1.69)
+RCHGF004133	beta-glucoside-specific IIABC component (EC 2.7.1.69)
+
+###Putative granulose formation genes
+
+RCHGF001039	glgD_glucose-1-phosphate adenylyltransferase
+RCHGF001040	glgC_glucose-1-phosphate adenylyltransferase
+RCHGF000034	glgP_glycogen phosphorylase [EC:2.4.1.1]
+RCHGF002976	glgP_glycogen phosphorylase [EC:2.4.1.1]
+RCHGF001038	glgA_starch synthase [EC:2.4.1.21]
+RCHGF000050	glgB_1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+
+###Alanine metabolism
+
+RCHGF003798	ald_alanine dehydrogenase (EC 1.4.1.1)
+
+###Cysteine metabolism
+
+RCHGF003396	cysK_cysteine synthase A (EC 2.5.1.47)
+
