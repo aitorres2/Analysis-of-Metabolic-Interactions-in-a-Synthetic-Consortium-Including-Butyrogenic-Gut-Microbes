@@ -1,0 +1,271 @@
+genome	locus_tag	gene	metabolite	metab_lab	familia	block	categoria	confidence	aa_pathway	sources	description	mean_count	max_count	n_zero
+HGF2	RCHGF002673	hisA | PRAI	Histidine | Tryptophan	His+Trp	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	his,trp	GapMind	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase	230.58333333333337	805	1
+HGF2	RCHGF003140	PPYAT | tyrB	Phenylalanine | Tyrosine	Phe+Tyr	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	phe,tyr	GapMind	phenylpyruvate aminotransferase	304.4166666666667	907	1
+HGF2	RCHGF000860	trpE	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	anthranilate synthase subunit TrpE	102.66666666666669	358	1
+HGF2	RCHGF000861	trpD_1	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	glutamine amidotransferase of anthranilate synthase	34.833333333333336	135	4
+HGF2	RCHGF000862	trpD_2	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	anthranilate phosphoribosyltransferase	95.16666666666669	239	6
+HGF2	RCHGF000863	IGPS	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	indole-3-glycerol phosphate synthase	132.66666666666666	421	2
+HGF2	RCHGF000499	pre-dehydr	Tyrosine	Tyrosine	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	low	tyr	GapMind	prephenate dehydrogenase	1120.5	3531	0
+HGF2	RCHGF000638	asp-kinase	Lysine | Methionine | Threonine	Lys+Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,met,thr	GapMind	aspartate kinase	1275.5833333333333	3647	2
+HGF2	RCHGF000639	asd	Lysine | Methionine | Threonine	Lys+Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,met,thr	GapMind	aspartate semi-aldehyde dehydrogenase	1613.5	6808	2
+HGF2	RCHGF002386	dapL	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	medium	lys	GapMind	N-acetyl-diaminopimelate deacetylase	918	2590	0
+HGF2	RCHGF002390	dapF	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	diaminopimelate epimerase	454.1666666666667	1054	0
+HGF2	RCHGF002391	dapA	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	4-hydroxy-tetrahydrodipicolinate synthase	2449.5833333333335	7238	0
+HGF2	RCHGF002392	dapB	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	medium	lys	GapMind	4-hydroxy-tetrahydrodipicolinate reductase	1409	4516	0
+HGF2	RCHGF002393	dapH	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	tetrahydrodipicolinate acetyltransferase	373.0833333333333	1106	0
+HGF2	RCHGF002406	dapX	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	medium	lys	GapMind	acetyl-diaminopimelate aminotransferase	4839.75	13933	0
+HGF2	RCHGF000637	hom	Methionine | Threonine	Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	medium	met,thr	GapMind	homoserine dehydrogenase	944.6666666666666	3056	1
+HGF2	RCHGF002350	ramA	Methionine	Methionine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	met	GapMind	ATP-dependent reduction of co(II)balamin	102.66666666666669	316	2
+HGF2	RCHGF003512	metX	Methionine	Methionine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	met	GapMind	homoserine O-acetyltransferase	1672.4166666666667	5813	0
+HGF2	RCHGF000635	thrB	Threonine	Threonine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	thr	GapMind	homoserine kinase	747.5833333333334	1912	0
+HGF2	RCHGF003480	argI	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	ornithine carbamoyltransferase	943.9166666666666	2744	1
+HGF2	RCHGF003481	argD	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acetylornithine aminotransferase	594.4166666666666	1921	0
+HGF2	RCHGF003482	argB	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acylglutamate kinase	284.8333333333333	951	3
+HGF2	RCHGF003483	argJ	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	ornithine acetyltransferase	247.41666666666663	720	4
+HGF2	RCHGF003484	argC	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acylglutamylphosphate reductase	494.0833333333333	1356	0
+HGF2	RCHGF003486	argG	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	arginosuccinate synthetase	438.9166666666667	1207	0
+HGF2	RCHGF003550	carB	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	carbamoyl phosphate synthase subunit beta	1329.9166666666667	3896	0
+HGF2	RCHGF003551	carA	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	carbamoyl phosphate synthase subunit alpha	595.25	1856	0
+HGF2	RCHGF000574	prs	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	ribose-phosphate diphosphokinase	2791.5833333333335	6676	0
+HGF2	RCHGF002670	hisI	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	phosphoribosyl-ATP pyrophosphatase	16.916666666666668	59	5
+HGF2	RCHGF002671	hisE	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	phosphoribosyl-AMP cyclohydrolase	133.33333333333334	386	0
+HGF2	RCHGF002672	hisF	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazole glycerol phosphate synthase, cyclase subunit	93.08333333333331	215	1
+HGF2	RCHGF002674	hisH	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazole glycerol phosphate synthase, amidotransferase subunit	71.91666666666667	220	0
+HGF2	RCHGF002675	hisB	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazoleglycerol-phosphate dehydratase	66.75	180	3
+HGF2	RCHGF002678	hisG	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	ATP phosphoribosyltransferase	102.75	330	3
+HGF2	RCHGF002922	hisN	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	medium	his	GapMind	histidinol-phosphate phosphatase	789.3333333333334	2302	1
+HGF2	RCHGF002126	proA	Proline	Proline	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	pro	GapMind	gamma-glutamylphosphate reductase	1088.8333333333333	3846	0
+HGF2	RCHGF002127	proB	Proline	Proline	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	pro	GapMind	glutamate 5-kinase	393.0833333333333	1316	2
+HGF2	RCHGF001580	ilvH	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	acetolactate/acetohydroxybutanoate synthase regulatory subunit	253.91666666666663	635	2
+HGF2	RCHGF001901	ilvD	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	dihydroxy-acid dehydratase	1314.6666666666667	3124	0
+HGF2	RCHGF001902	ilvC	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	2-hydroxy-3-ketol-acid reductoisomerase	1437.75	3640	1
+HGF2	RCHGF001904	ilvI	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	acetolactate/acetohydroxybutanoate synthase catalytic subunit	1007	2572	0
+HGF2	RCHGF002515	leuA	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	2-isopropylmalate synthase	642.5	1524	2
+HGF2	RCHGF002516	leuC	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-isopropylmalate dehydratase / citramalate isomerase, large subunit	1238.8333333333333	3292	0
+HGF2	RCHGF002517	leuD	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-isopropylmalate dehydaratase / citramalate isomerase, small subunit	191.83333333333337	517	4
+HGF2	RCHGF002518	leuB	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-methylmalate dehydrogenase / 3-isopropylmalate dehydrogenase	1211.4166666666667	2940	0
+HGF2	RCHGF003646	cysE	Cysteine	Cysteine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	cys	GapMind	serine acetyltransferase	350	914	2
+HGF2	RCHGF000999	serA	Serine	Serine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	medium	ser	GapMind	3-phosphoglycerate dehydrogenase	48.75	142	4
+HGF2	RCHGF001393	serB	Serine	Serine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	low	ser	GapMind	phosphoserine phosphatase	564.3333333333334	1409	0
+HGF2	RCHGF001394	serC	Serine	Serine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	ser	GapMind	3-phosphoserine aminotransferase	1744.6666666666667	4715	1
+HGF2	RCHGF000504	cmutase | preph-dehydratase | Prephenate dehydratase	Phenylalanine | Tyrosine	Phe+Tyr	Aromatic	Amino acids	Amino acid enzyme (curated)	high	phe,tyr	curated_table+GapMind	chorismate mutase	1816.6666666666667	4860	1
+HGF2	RCHGF000865	trpB | Tryptophan synthase	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid enzyme (curated)	high	trp	curated_table+GapMind	tryptophan synthase	158.41666666666666	393	1
+HGF2	RCHGF000866	trpA | Tryptophan synthase	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid enzyme (curated)	high	trp	curated_table+GapMind	indoleglycerol phosphate aldolase	90.41666666666669	317	5
+HGF2	RCHGF000212	Asparagine synthetase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	261.4166666666667	1023	0
+HGF2	RCHGF001914	Asparagine synthetase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	6508.083333333333	28796	0
+HGF2	RCHGF002792	asnB | Asparagine synthetase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	asn	curated_table+GapMind	asparagine synthase (glutamine-hydrolysing)	4860.916666666667	18814	0
+HGF2	RCHGF003718	aspartate--ammonia ligase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	620.8333333333334	1868	2
+HGF2	RCHGF002388	lysA | Diaminopimelate decarboxylase	Lysine	Lysine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	lys	curated_table+GapMind	diaminopimelate decarboxylase	989.75	2454	0
+HGF2	RCHGF002351	EC 2.1.1.13	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	37	131	4
+HGF2	RCHGF003356	metH | EC 2.1.1.13	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	medium	met	curated_table+GapMind	vitamin B12-dependent methionine synthase	1472.3333333333333	5362	0
+HGF2	RCHGF003357	EC 2.1.1.13	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	625	2088	0
+HGF2	RCHGF003513	metY | O-acetylhomoserine (thiol)-lyase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	met	curated_table+GapMind	O-acetylhomoserine sulfhydrylase	1796.25	5214	0
+HGF2	RCHGF003599	O-acetylhomoserine (thiol)-lyase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	918.5833333333334	4783	0
+HGF2	RCHGF004250	L-methionine (R)-S-oxide reductase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	151.5	393	3
+HGF2	RCHGF000636	thrC | Threonine synthase	Threonine	Threonine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	thr	curated_table+GapMind	threonine synthase	2040	5271	0
+HGF2	RCHGF002967	Threonine dehydratase	Threonine	Threonine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	572.9166666666666	1495	0
+HGF2	RCHGF003485	argH | Argininosuccinate lyase	Arginine	Arginine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	arg	curated_table+GapMind	argininosuccinate lyase	452.1666666666667	1059	0
+HGF2	RCHGF000204	Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	2139.4166666666665	9814	0
+HGF2	RCHGF000209	glnA | Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	gln	curated_table+GapMind	glutamine synthetase	562.0833333333334	2379	0
+HGF2	RCHGF002946	Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	2809.9166666666665	8097	0
+HGF2	RCHGF004064	Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1068.75	2904	0
+HGF2	RCHGF002677	hisD | Histidinol dehydrogenase	Histidine	Histidine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	his	curated_table+GapMind	histidinal/histidinol dehydrogenase	169.75	434	2
+HGF2	RCHGF002135	proC | Pyrroline-5-carboxylate reductase	Proline	Proline	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	pro	curated_table+GapMind	pyrroline-5-carboxylate reductase	265.3333333333333	699	0
+HGF2	RCHGF003257	Pyrroline-5-carboxylate reductase	Proline	Proline	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1557.75	6471	1
+HGF2	RCHGF003738	ilvE | EC 2.6.1.42	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid enzyme (curated)	high	ile,leu,val	curated_table+GapMind	isoleucine transaminase	1718.75	4934	0
+HGF2	RCHGF001905	ilvA | Threonine dehydratase	Isoleucine | Threonine	Ile+Thr	Pyruvate / BCAA	Amino acids	Amino acid enzyme (curated)	high	ile	curated_table+GapMind	threonine deaminase	339.8333333333333	889	2
+HGF2	RCHGF003396	cysK | Cysteine synthase	Cysteine	Cysteine	Serine family	Amino acids	Amino acid enzyme (curated)	high	cys	curated_table+GapMind	O-acetylserine or O-succinylserine sulfhydrylase	7077.166666666667	41687	0
+HGF2	RCHGF003647	Cysteine synthase	Cysteine	Cysteine	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	2074.0833333333335	5485	0
+HGF2	RCHGF001998	glyA | Glycine hydroxymethyltransferase	Glycine | Serine	Gly+Ser	Serine family	Amino acids	Amino acid enzyme (curated)	high	gly	curated_table+GapMind	serine hydroxymethyltransferase	1156.6666666666667	2844	0
+HGF2	RCHGF003498	Threonine aldolase	Glycine | Threonine	Gly+Thr	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	596.75	1584	0
+HGF2	RCHGF001634	glycine C-acetyltransferase	Glycine	Glycine	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	197.91666666666663	519	2
+HGF2	RCHGF003901	L-serine dehydratase	Serine	Serine	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1330	3004	0
+HGF2	RCHGF004185	Aspartate transporter | Glutamate transporter	Aspartate | Glutamate	Asp+Glu	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1679.3333333333333	7456	0
+HGF2	RCHGF000852	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	99	282	1
+HGF2	RCHGF000853	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	271.4166666666667	796	2
+HGF2	RCHGF001819	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	853.0833333333334	2553	0
+HGF2	RCHGF001820	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1021.75	3183	0
+HGF2	RCHGF003576	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	291	667	2
+HGF2	RCHGF003578	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	348	1317	3
+HGF2	RCHGF003683	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	321.5	906	0
+HGF2	RCHGF003684	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	157.33333333333334	466	1
+HGF2	RCHGF003685	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	193.83333333333337	659	0
+HGF2	RCHGF000755	Proline transporter	Proline	Proline	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	134.58333333333334	318	3
+HGF2	RCHGF003794	Proline transporter	Proline	Proline	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	326.25	868	1
+HGF2	RCHGF004003	Proline transporter	Proline	Proline	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	798.4166666666666	2199	0
+HGF2	RCHGF000887	Alanine transporter	Alanine	Alanine	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	197.33333333333337	475	1
+HGF2	RCHGF002662	Alanine transporter	Alanine	Alanine	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	526.9166666666666	1919	0
+HGF2	RCHGF001397	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	17.916666666666668	62	5
+HGF2	RCHGF001398	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	195.25	768	4
+HGF2	RCHGF002826	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	491.6666666666667	1492	0
+HGF2	RCHGF003211	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	396.25	1082	2
+HGF2	RCHGF003212	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	527.5	1236	1
+HGF2	RCHGF004245	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	577.8333333333334	1867	3
+HGF2	RCHGF003213	Leucine transporter | Valine transporter	Leucine | Valine	Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	2770.75	8363	1
+HGF2	RCHGF000948	Amino acid transporter (unspecified)	Aa_unspecified	Aa_unspecified	Unspecified	Transporters	Amino acid transport	NA	NA	curated_table	NA	826.3333333333334	2194	0
+HGF2	RCHGF002015	Amino acid transporter (unspecified)	Aa_unspecified	Aa_unspecified	Unspecified	Transporters	Amino acid transport	NA	NA	curated_table	NA	2941.1666666666665	7994	1
+HGF2	RCHGF000200	Aspartate ammonia-lyase	Aspartate	Aspartate	Aspartate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	949.8333333333334	2521	0
+HGF2	RCHGF000505	Aspartate aminotransferase	Aspartate	Aspartate	Aspartate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	1441.6666666666667	4048	0
+HGF2	RCHGF002676	hisC | histidinol-phosphate aminotransferase	Glutamate | Histidine	Glu+His	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	high	his	curated_table+GapMind	histidinol-phosphate aminotransferase	213.58333333333337	735	2
+HGF2	RCHGF000208	Glutamate dehydrogenase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	336.3333333333333	1523	0
+HGF2	RCHGF000369	Glutamate synthase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	818.0833333333334	2586	1
+HGF2	RCHGF003700	Glutamate dehydrogenase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	18140.583333333332	60444	0
+HGF2	RCHGF000824	Alanine transaminase	Alanine	Alanine	Pyruvate / BCAA	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	720.5833333333334	3059	1
+HGF2	RCHGF001416	Alanine transaminase	Alanine	Alanine	Pyruvate / BCAA	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	76.41666666666667	265	0
+HGF2	RCHGF003798	Alanine dehydrogenase	Alanine	Alanine	Pyruvate / BCAA	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	3215.9166666666665	8874	0
+HGF2	RCHGF001011	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	53	156	2
+HGF2	RCHGF001587	NADPH-dependent butanol dehydrogenase (EC 1.1.1.1)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	72	219	4
+HGF2	RCHGF002411	adh alcohol dehydrogenase, iron-dependent (EC 1.1.1.1)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	131	347	3
+HGF2	RCHGF002900	ald aldehyde dehydrogenase (NAD) family protein (EC 1.2.1.-)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	1204	3254	0
+HGF2	RCHGF003179	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	1175	2786	0
+HGF2	RCHGF003613	adh alcohol dehydrogenase, iron-dependent (EC 1.1.1.1)	Butanol	Butanol	Fermentation & fiber	Solventogenesis	Butanol production	NA	NA	user_gene_list	NA	202	707	0
+HGF2	RCHGF003225	Beta-fructofuranosidase	Glucose, fructose	Glucose, fructose	Fiber & sugars	Fiber & sugars	Fiber hydrolysis (inulin/FOS)	NA	NA	curated_table	NA	253.66666666666663	954	0
+HGF2	RCHGF003366	Fructan beta-fructosidase	Glucose, fructose, FOS	Glucose, fructose, FOS	Fiber & sugars	Fiber & sugars	Fiber hydrolysis (inulin/FOS)	NA	NA	curated_table	NA	3595.1666666666665	16529	1
+HGF2	RCHGF000917	Phosphate acetyltransferase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	642.8333333333334	1867	0
+HGF2	RCHGF001173	Phosphate acetyltransferase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	4158	13561	0
+HGF2	RCHGF001550	Acetate CoA-transferase (ydiF)	Acetate	Acetate	Fermentation	Fermentation	SCFA / fermentation	NA	NA	paper_results	NA	126	383	2
+HGF2	RCHGF003536	Phosphate acetyltransferase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	450.25	1413	1
+HGF2	RCHGF003908	Acetate kinase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	3029.5	7374	0
+HGF2	RCHGF003500	But_alternative_transferase	Butyrate	Butyrate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	9167.25	29568	0
+HGF2	RCHGF000264	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	470.8333333333333	1401	0
+HGF2	RCHGF001334	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	679.0833333333334	1552	2
+HGF2	RCHGF001335	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	1255.25	3312	0
+HGF2	RCHGF003222	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	224.75	748	3
+HGF2	RCHGF000003	parA soj chromosome partitioning protein	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	1182	2640	0
+HGF2	RCHGF000216	RNA polymerase sigma-F factor	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	411	1424	0
+HGF2	RCHGF001539	SpoIID stage II sporulation protein D	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	340	1278	4
+HGF2	RCHGF001876	spo0A response regulator	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	2263	6908	3
+HGF2	RCHGF002762	SpoVAF stage V sporulation protein AF	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	571	1821	2
+HGF2	RCHGF004072	spoIVB stage IV sporulation protein B	Sporulation (no metabolite)	Sporulation (no metabolite)	Unspecified	Sporulation	Sporulation	NA	NA	user_gene_list	NA	4113	15004	0
+HGF2	RCHGF002808	Glucokinase (glk)	Glucose	Glucose	Fiber & sugars	Fermentation	Sugar uptake / phosphorylation	NA	NA	paper_results	NA	397	1376	0
+PT33	RVCYZ001145	hisA | PRAI	Histidine | Tryptophan	His+Trp	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	his,trp	GapMind	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase	775.25	1617	0
+PT33	RVCYZ000409	PPYAT | tyrB	Phenylalanine | Tyrosine	Phe+Tyr	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	phe,tyr	GapMind	phenylpyruvate aminotransferase	8020.333333333333	14909	0
+PT33	RVCYZ001355	cmutase	Phenylalanine | Tyrosine	Phe+Tyr	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	phe,tyr	GapMind	chorismate mutase	936.3333333333334	1782	0
+PT33	RVCYZ000050	trpE	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	anthranilate synthase subunit TrpE	1460.5833333333333	2937	0
+PT33	RVCYZ000912	trpD_1	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	glutamine amidotransferase of anthranilate synthase	1765.5833333333333	3984	0
+PT33	RVCYZ001224	trpD_2	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	high	trp	GapMind	anthranilate phosphoribosyltransferase	1415.6666666666667	2347	0
+PT33	RVCYZ001073	pre-dehydr	Tyrosine	Tyrosine	Aromatic	Amino acids	Amino acid biosynthesis (GapMind)	medium	tyr	GapMind	prephenate dehydrogenase	2644.1666666666665	3904	0
+PT33	RVCYZ000166	aspS2	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	asn	GapMind	aspartyl-tRNA(Asp/Asn) synthetase	4398.166666666667	5802	0
+PT33	RVCYZ001361	gatB	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	asn	GapMind	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	6782.333333333333	8877	0
+PT33	RVCYZ001362	gatA	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	asn	GapMind	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	7491.5	11108	0
+PT33	RVCYZ001363	gatC	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	asn	GapMind	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	1536.25	2652	0
+PT33	RVCYZ000780	asd	Lysine | Methionine | Threonine	Lys+Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,met,thr	GapMind	aspartate semi-aldehyde dehydrogenase	3667.9166666666665	5023	0
+PT33	RVCYZ000781	asp-kinase	Lysine | Methionine | Threonine	Lys+Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,met,thr	GapMind	aspartate kinase	1232.5	1710	0
+PT33	RVCYZ000782	asp-kinase	Lysine | Methionine | Threonine	Lys+Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,met,thr	GapMind	aspartate kinase	1872.75	3103	0
+PT33	RVCYZ000287	dapD	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	tetrahydrodipicolinate succinylase	2955.5	3923	0
+PT33	RVCYZ000403	dapE	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	succinyl-diaminopimelate desuccinylase	2075.3333333333335	4217	0
+PT33	RVCYZ000971	dapA	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	4-hydroxy-tetrahydrodipicolinate synthase	4324.333333333333	6748	0
+PT33	RVCYZ000972	dapB	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	4-hydroxy-tetrahydrodipicolinate reductase	2435.25	3193	0
+PT33	RVCYZ001187	dapF	Lysine	Lysine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys	GapMind	diaminopimelate epimerase	2643.5833333333335	4718	0
+PT33	RVCYZ001309	hom	Methionine | Threonine	Met+Thr	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	met,thr	GapMind	homoserine dehydrogenase	3949.5833333333335	5561	0
+PT33	RVCYZ001329	metX	Methionine	Methionine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	met	GapMind	homoserine O-acetyltransferase	2132.9166666666665	3862	0
+PT33	RVCYZ001308	thrB	Threonine	Threonine	Aspartate family	Amino acids	Amino acid biosynthesis (GapMind)	high	thr	GapMind	homoserine kinase	2830.5	4068	0
+PT33	RVCYZ000104	argG	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	arginosuccinate synthetase	3170.0833333333335	4984	0
+PT33	RVCYZ000106	argI	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	ornithine carbamoyltransferase	1207.25	1685	0
+PT33	RVCYZ000107	argD	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acetylornithine aminotransferase	1991.25	3686	0
+PT33	RVCYZ000108	argB	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acylglutamate kinase	933.8333333333334	1521	0
+PT33	RVCYZ000109	argJ	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	ornithine acetyltransferase	1290.5833333333333	2227	0
+PT33	RVCYZ000110	argC	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	N-acylglutamylphosphate reductase	1173.4166666666667	1940	0
+PT33	RVCYZ000206	carB	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	carbamoyl phosphate synthase subunit beta	6216	8812	0
+PT33	RVCYZ000207	carA	Arginine	Arginine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	arg	GapMind	carbamoyl phosphate synthase subunit alpha	2202.75	2732	0
+PT33	RVCYZ000041	hisG	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	ATP phosphoribosyltransferase	1270.0833333333333	1561	0
+PT33	RVCYZ000042	hisI	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	phosphoribosyl-ATP pyrophosphatase	648.4166666666666	1041	0
+PT33	RVCYZ000051	hisE	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	phosphoribosyl-AMP cyclohydrolase	155.58333333333334	427	0
+PT33	RVCYZ000052	hisF	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazole glycerol phosphate synthase, cyclase subunit	674.1666666666666	1546	0
+PT33	RVCYZ000087	prs	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	ribose-phosphate diphosphokinase	2395	3640	0
+PT33	RVCYZ000730	hisN	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	histidinol-phosphate phosphatase	542.5833333333334	1180	0
+PT33	RVCYZ001146	hisH	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazole glycerol phosphate synthase, amidotransferase subunit	1347	1820	0
+PT33	RVCYZ001148	hisB	Histidine	Histidine	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	his	GapMind	imidazoleglycerol-phosphate dehydratase	879.5833333333334	1150	0
+PT33	RVCYZ000090	proA	Proline	Proline	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	pro	GapMind	gamma-glutamylphosphate reductase	1790.8333333333333	2457	0
+PT33	RVCYZ000408	proB	Proline	Proline	Glutamate family	Amino acids	Amino acid biosynthesis (GapMind)	high	pro	GapMind	glutamate 5-kinase	4535	9536	0
+PT33	RVCYZ000203	ilvD	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	dihydroxy-acid dehydratase	7517.833333333333	12770	0
+PT33	RVCYZ000380	ilvH	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	acetolactate/acetohydroxybutanoate synthase regulatory subunit	1304.3333333333333	1885	0
+PT33	RVCYZ000381	ilvI	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	acetolactate/acetohydroxybutanoate synthase catalytic subunit	4984.5	7575	0
+PT33	RVCYZ000847	ilvC	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	ile,leu,val	GapMind	2-hydroxy-3-ketol-acid reductoisomerase	9039.083333333334	12428	0
+PT33	RVCYZ000346	leuC	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-isopropylmalate dehydratase / citramalate isomerase, large subunit	2438.1666666666665	4876	0
+PT33	RVCYZ000347	leuD	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-isopropylmalate dehydaratase / citramalate isomerase, small subunit	999.3333333333334	2071	0
+PT33	RVCYZ000778	leuA	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	2-isopropylmalate synthase	7935	11308	0
+PT33	RVCYZ001003	leuB	Leucine	Leucine	Pyruvate / BCAA	Amino acids	Amino acid biosynthesis (GapMind)	high	leu	GapMind	3-methylmalate dehydrogenase / 3-isopropylmalate dehydrogenase	1623.3333333333333	3005	0
+PT33	RVCYZ000264	CBS	Cysteine	Cysteine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	cys	GapMind	cystathionine beta-synthase	1092.6666666666667	2454	0
+PT33	RVCYZ000529	CGL	Cysteine	Cysteine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	cys	GapMind	cystathionine gamma-lyase	1600.4166666666667	3468	0
+PT33	RVCYZ000989	glyXL	Glycine	Glycine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	gly	GapMind	putative gloyxylate synthesis enzyme, catalytic component	3576.9166666666665	4938	0
+PT33	RVCYZ000990	glyXS	Glycine	Glycine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	gly	GapMind	putative gloxylate synthesis enzyme, ACT domain component	585.1666666666666	762	0
+PT33	RVCYZ001259	agx1	Glycine	Glycine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	gly	GapMind	alanine--glyoxylate aminotransferase	1448	3059	0
+PT33	RVCYZ000548	dapC | serC	Lysine | Serine	Lys+Ser	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	lys,ser	GapMind	N-succinyldiaminopimelate aminotransferase	2449.4166666666665	3466	0
+PT33	RVCYZ001134	serA	Serine	Serine	Serine family	Amino acids	Amino acid biosynthesis (GapMind)	high	ser	GapMind	3-phosphoglycerate dehydrogenase	3793.75	7734	0
+PT33	RVCYZ001074	preph-dehydratase | Prephenate dehydratase	Phenylalanine	Phenylalanine	Aromatic	Amino acids	Amino acid enzyme (curated)	high	phe	curated_table+GapMind	prephenate dehydratase	1493.8333333333333	2533	0
+PT33	RVCYZ000045	trpA | Tryptophan synthase	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid enzyme (curated)	high	trp	curated_table+GapMind	indoleglycerol phosphate aldolase	1281.4166666666667	1787	0
+PT33	RVCYZ000046	IGPS | trpB | Tryptophan synthase	Tryptophan	Tryptophan	Aromatic	Amino acids	Amino acid enzyme (curated)	high	trp	curated_table+GapMind	indole-3-glycerol phosphate synthase	3442.8333333333335	5052	0
+PT33	RVCYZ000191	aspartate--ammonia ligase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1929.1666666666667	2983	0
+PT33	RVCYZ000788	Asparagine synthetase	Asparagine	Asparagine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	607.6666666666666	1600	0
+PT33	RVCYZ000905	Diaminopimelate decarboxylase	Lysine	Lysine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	8391.916666666666	30527	0
+PT33	RVCYZ001310	lysA | Diaminopimelate decarboxylase	Lysine	Lysine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	lys	curated_table+GapMind	diaminopimelate decarboxylase	4268.5	7048	0
+PT33	RVCYZ000321	O-acetylhomoserine (thiol)-lyase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1746.5	3190	0
+PT33	RVCYZ000530	O-acetylhomoserine (thiol)-lyase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	527	1281	0
+PT33	RVCYZ000714	metE | EC 2.1.1.14	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	met	curated_table+GapMind	vitamin B12-independent methionine synthase	2539.1666666666665	4376	0
+PT33	RVCYZ000852	L-methionine (R)-S-oxide reductase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	3934.6666666666665	7915	0
+PT33	RVCYZ000858	L-methionine (R)-S-oxide reductase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	11398.75	14293	0
+PT33	RVCYZ001269	metY | O-acetylhomoserine (thiol)-lyase	Methionine	Methionine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	met	curated_table+GapMind	O-acetylhomoserine sulfhydrylase	1176.6666666666667	2839	0
+PT33	RVCYZ000091	thrC | Threonine synthase	Threonine	Threonine	Aspartate family	Amino acids	Amino acid enzyme (curated)	high	thr	curated_table+GapMind	threonine synthase	2573.5	3657	0
+PT33	RVCYZ001133	Threonine dehydratase	Threonine	Threonine	Aspartate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	4630.083333333333	8568	0
+PT33	RVCYZ000103	argH | Argininosuccinate lyase	Arginine	Arginine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	arg	curated_table+GapMind	argininosuccinate lyase	2981.8333333333335	3750	0
+PT33	RVCYZ000131	glnA | Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	gln	curated_table+GapMind	glutamine synthetase	15644.416666666666	34023	0
+PT33	RVCYZ001143	Glutamine synthetase	Glutamine	Glutamine	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	2942	4335	0
+PT33	RVCYZ001150	hisD | Histidinol dehydrogenase	Histidine	Histidine	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	his	curated_table+GapMind	histidinal/histidinol dehydrogenase	4186	5678	0
+PT33	RVCYZ000012	Ornithine cyclodeaminase	Proline	Proline	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	4152.75	7330	0
+PT33	RVCYZ001276	Proline iminopeptidase	Proline	Proline	Glutamate family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1959.4166666666667	3280	0
+PT33	RVCYZ001277	proC | Pyrroline-5-carboxylate reductase	Proline	Proline	Glutamate family	Amino acids	Amino acid enzyme (curated)	high	pro	curated_table+GapMind	pyrroline-5-carboxylate reductase	979.5833333333334	1801	0
+PT33	RVCYZ000701	ilvE | EC 2.6.1.42	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Amino acids	Amino acid enzyme (curated)	high	ile,leu,val	curated_table+GapMind	isoleucine transaminase	4144	7033	0
+PT33	RVCYZ001488	ilvA | Threonine dehydratase	Isoleucine | Threonine	Ile+Thr	Pyruvate / BCAA	Amino acids	Amino acid enzyme (curated)	high	ile	curated_table+GapMind	threonine deaminase	3065.25	6255	0
+PT33	RVCYZ000216	Threonine aldolase	Glycine | Threonine	Gly+Thr	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	4779.916666666667	7295	0
+PT33	RVCYZ000197	serB | Phosphoserine phosphatase	Serine	Serine	Serine family	Amino acids	Amino acid enzyme (curated)	high	ser	curated_table+GapMind	phosphoserine phosphatase	1189.5833333333333	2155	0
+PT33	RVCYZ000592	L-serine dehydratase	Serine	Serine	Serine family	Amino acids	Amino acid enzyme (curated)	NA	NA	curated_table	NA	1876	3387	0
+PT33	RVCYZ000079	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	985.3333333333334	1809	0
+PT33	RVCYZ000159	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1850.75	2491	0
+PT33	RVCYZ000160	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1417.75	2416	0
+PT33	RVCYZ000161	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1401	2150	0
+PT33	RVCYZ000278	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	2255.9166666666665	2967	0
+PT33	RVCYZ000280	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	2153.5833333333335	2793	0
+PT33	RVCYZ001191	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	3457.5	7042	0
+PT33	RVCYZ001193	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1307	3421	0
+PT33	RVCYZ001194	Aspartate transporter | Glutamate transporter | Glutamine transporter	Aspartate | Glutamate | Glutamine	Asp+Glu+Gln	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1259.0833333333333	2527	0
+PT33	RVCYZ000266	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	883.0833333333334	1579	0
+PT33	RVCYZ000284	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	2875.6666666666665	5771	0
+PT33	RVCYZ001196	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	706.25	1715	0
+PT33	RVCYZ001197	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1084.75	2699	0
+PT33	RVCYZ001198	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1027.25	2565	0
+PT33	RVCYZ001245	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	2158.25	6985	0
+PT33	RVCYZ001246	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	2279.4166666666665	4636	0
+PT33	RVCYZ001247	Methionine transporter	Methionine	Methionine	Aspartate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	841.0833333333334	1284	0
+PT33	RVCYZ000925	Arginine transporter	Arginine	Arginine	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	4589.416666666667	10048	0
+PT33	RVCYZ000536	Glutamate transporter	Glutamate	Glutamate	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	35646.333333333336	68705	0
+PT33	RVCYZ000442	Proline transporter	Proline	Proline	Glutamate family	Transporters	Amino acid transport	NA	NA	curated_table	NA	1365.1666666666667	2974	0
+PT33	RVCYZ000864	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	1365.1666666666667	3068	0
+PT33	RVCYZ000865	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	2499.25	5720	0
+PT33	RVCYZ001288	Isoleucine transporter | Leucine transporter | Valine transporter	Isoleucine | Leucine | Valine	Ile+Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	2707.8333333333335	3399	0
+PT33	RVCYZ000820	Leucine transporter | Valine transporter	Leucine | Valine	Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	1695.4166666666667	4149	0
+PT33	RVCYZ000857	Leucine transporter | Valine transporter	Leucine | Valine	Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	968.25	2340	0
+PT33	RVCYZ000861	Leucine transporter | Valine transporter	Leucine | Valine	Leu+Val	Pyruvate / BCAA	Transporters	Amino acid transport	NA	NA	curated_table	NA	2719.5833333333335	5532	0
+PT33	RVCYZ000463	Amino acid transporter (unspecified)	Aa_unspecified	Aa_unspecified	Unspecified	Transporters	Amino acid transport	NA	NA	curated_table	NA	2918.9166666666665	4627	0
+PT33	RVCYZ000538	Amino acid transporter (unspecified)	Aa_unspecified	Aa_unspecified	Unspecified	Transporters	Amino acid transport	NA	NA	curated_table	NA	7858.333333333333	12575	0
+PT33	RVCYZ000832	Amino acid transporter (unspecified)	Aa_unspecified	Aa_unspecified	Unspecified	Transporters	Amino acid transport	NA	NA	curated_table	NA	3604.75	7684	0
+PT33	RVCYZ000360	Aspartate aminotransferase	Aspartate	Aspartate	Aspartate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	3612.25	4873	0
+PT33	RVCYZ001297	Aspartate ammonia-lyase	Aspartate	Aspartate	Aspartate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	3609	5081	0
+PT33	RVCYZ001411	Aspartate dehydrogenase	Aspartate	Aspartate	Aspartate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	4137.25	9375	0
+PT33	RVCYZ001149	hisC | histidinol-phosphate aminotransferase	Glutamate | Histidine	Glu+His	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	high	his	curated_table+GapMind	histidinol-phosphate aminotransferase	3314.3333333333335	4981	0
+PT33	RVCYZ000706	Glutamate synthase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	7612.583333333333	10133	0
+PT33	RVCYZ000707	Glutamate synthase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	4068.8333333333335	7083	0
+PT33	RVCYZ001533	Glutamate dehydrogenase	Glutamate	Glutamate	Glutamate family	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	12865.333333333334	29265	0
+PT33	RVCYZ000777	Alanine transaminase	Alanine	Alanine	Pyruvate / BCAA	Amino acids	Amino acid: Ala/Asp/Glu (no GapMind pathway)	NA	NA	curated_table	NA	9889.916666666666	14258	0
+PT33	RVCYZ000630	F6P/X5P phosphoketolase (xfp)	Glucose, fructose	Glucose, fructose	Fermentation & fiber	Bifid shunt	Bifid shunt	NA	NA	user_gene_list	NA	102061	191874	0
+PT33	RVCYZ000475	bifunctional alcohol dehydrogenase (EC 1.1.1.1) / acetald...	Ethanol	Ethanol	Fermentation & fiber	Solventogenesis	Ethanol production	NA	NA	user_gene_list	NA	9984	15643	0
+PT33	RVCYZ000872	Alcohol dehydrogenase [NADP+]  (EC 1.1.1.2)	Ethanol	Ethanol	Fermentation & fiber	Solventogenesis	Ethanol production	NA	NA	user_gene_list	NA	3867	9672	0
+PT33	RVCYZ001167	Beta-fructofuranosidase	Glucose, fructose	Glucose, fructose	Fiber & sugars	Fiber & sugars	Fiber hydrolysis (inulin/FOS)	NA	NA	curated_table	NA	4032.8333333333335	5657	0
+PT33	RVCYZ000628	Acetate kinase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	8347.25	14092	0
+PT33	RVCYZ000629	Phosphate acetyltransferase	Acetate	Acetate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	4706.833333333333	6562	0
+PT33	RVCYZ001251	Formate C-acetyltransferase (pflD)	Formate	Formate	Fermentation	Fermentation	SCFA / fermentation	NA	NA	paper_results	NA	41138	64224	0
+PT33	RVCYZ000422	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	2438.6666666666665	3820	0
+PT33	RVCYZ001139	Lactate dehydrogenase	Lactate	Lactate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	14958.583333333334	23398	0
+PT33	RVCYZ001263	Succinate dehydrogenase	Succinate	Succinate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	1441.25	2150	0
+PT33	RVCYZ001264	Succinate dehydrogenase	Succinate	Succinate	Fermentation	Fermentation acids	SCFA / fermentation	NA	NA	curated_table	NA	2515.3333333333335	3972	0
+PT33	RVCYZ001166	MFS sugar transporter (lacY)	Sugar (unspecified)	Sugar (unspecified)	Fiber & sugars	Transporters	Sugar uptake / phosphorylation	NA	NA	paper_results	NA	4589	7457	0
